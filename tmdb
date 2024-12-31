@@ -13,3 +13,17 @@
 52.85.79.89 api.themoviedb.org
 13.225.41.40 api.themoviedb.org
 13.226.251.88 api.themoviedb.org
+
+104.18.1.127 metadata.provider.plex.tv
+104.18.1.127 metadata-static.plex.tv
+104.18.1.127 assets.plex.tv
+104.18.1.127 scrobbles.plex.tv
+104.18.1.127 analytics.plex.tv
+104.18.1.127 clients.plex.tv
+104.18.1.127 images.plex.tv
+104.18.1.127 app.plex.tv
+104.18.1.127 discover.provider.plex.tv
+104.18.1.127 mp.plex.tv
+104.18.1.127 ump.plex.tv
+104.18.1.127 mpm.plex.tv
+104.18.1.127 meta.plex.tv
